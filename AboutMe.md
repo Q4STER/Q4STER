@@ -4,21 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can write to me by <a href="#">Email<a> or <a href="#">Discord<a>, but the best option would be <a href="#">Telegram<a>
 ```html
-
-
-
-
-
-
-
-
-
-Нажмите здесь, чтобы заменить текст
-
-
-
-
-
+Привет
+Как дела?
 ```
 <!---
 Q4STER/Q4STER is a ✨ special ✨ repository because its `AboutMe.md` (this file) appears on your GitHub profile.
