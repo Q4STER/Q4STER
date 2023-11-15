@@ -2,7 +2,7 @@
 - 👀 I'm interested in programming, listening to music, watching all sorts of things on YouTube, playing games and watching anime
 - 🌱 I'm currently studying to become a Java programmer, then I'm going to study programming languages like C#/C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? You can write to me by '''html <a href="">Email<a> ''' or <a href="#">Discord<a>, but the best option would be <a href="#">Telegram<a>
+- 📫 How to reach me? You can write to me by <a href="66666666alex66666666@gmail.com">Email<a> or <a href="#">Discord<a>, but the best option would be <a href="#">Telegram<a>
 
 <!---
 Q4STER/Q4STER is a ✨ special ✨ repository because its `AboutMe.md` (this file) appears on your GitHub profile.
